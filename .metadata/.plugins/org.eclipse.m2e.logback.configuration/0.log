@@ -1,1 +1,2 @@
 2019-06-17 12:18:04,367 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-17 12:23:09,797 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: /Users/coblab_ios/Documents/java_study/.metadata/com.genuitec.eclipse.webclipse.livepreview/0/store
